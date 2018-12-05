@@ -8,7 +8,7 @@ import org.w3c.dom.Text;
 
 public class Mainyok extends AppCompatActivity {
 
-    TextView tes1;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
